@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.MP4 filter=lfs diff=lfs merge=lfs -text
+=======
+hangpai/航拍_神农天路智慧驾游.MP4 filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8bc60a369e899923d4033f3208ccda91bbafcf3f
